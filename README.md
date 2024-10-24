@@ -1,5 +1,10 @@
 # ENGCE301
-# สารบัณ
+# Group5
+## สารบัณ
+1. สมาชิก
+   1. นายชยธร เอียดราช
+   2. นายแดนชัย สุรินทร์
+   3. นายกรกช   ไตรอุโฆษ
 tag [Feasibility_Study_Report](https://github.com/Chayathon001/ENGCE301/blob/main/Group5/SDD1-67-05_Feasibility_Study_Report.pdf)
 
 tag [User Strories](https://github.com/Chayathon001/ENGCE301/blob/main/Group5/User%20Strories.pdf)
